@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317372142110",
+    "firebase_url": "https://relatimedatabase-eee95-default-rtdb.firebaseio.com",
+    "project_id": "relatimedatabase-eee95",
+    "storage_bucket": "relatimedatabase-eee95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317372142110:android:38c52884d57c82804a540f",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecyclerviewkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317372142110-kn7ao84mhf6glmdtdtdh2t2ubbgnndj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohCuro_SyBBSUBxKq-90i5jADH1N-D9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317372142110-kn7ao84mhf6glmdtdtdh2t2ubbgnndj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
